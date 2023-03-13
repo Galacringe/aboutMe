@@ -1,0 +1,27 @@
+#name   {
+    color: whitesmoke;
+    text-align: center;
+}
+
+#navbar {
+    display: flex;
+    height: 200%;
+    background-color: rgba(30,30,30,0.95);
+}
+
+
+.navspace{
+    width: 25px;
+    height: auto;
+}
+
+.navbutton{
+    width: 200%;
+    height: auto;
+    color: whitesmoke;
+    border: 3px rebeccapurple;
+    text-align: center;
+}
+body {
+    background-color: rgba(30,30,30,0.95);
+}
